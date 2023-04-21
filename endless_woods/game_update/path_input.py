@@ -10,7 +10,6 @@ path_descriptions_list = {
     8: "a scenic hiking trail.",
     9: "a serene forest path.",
     10: "a hidden forest trail.",
-    11: "a cool path."
 }
 
 # Template: well-troden = {
@@ -21,5 +20,3 @@ path_descriptions_list = {
 # }
 
 #path_list (well-troden, ...)
-
-path_list (1, 2, 3)
