@@ -9,7 +9,8 @@ path_descriptions_list = {
     7: "a wooden boardwalk.",
     8: "a scenic hiking trail.",
     9: "a serene forest path.",
-    10: "a hidden forest trail."
+    10: "a hidden forest trail.",
+    11: "a cool path."
 }
 
 # Template: well-troden = {
